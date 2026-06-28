@@ -218,6 +218,18 @@
             }
         ]
     },
+        "skrubslayer.mp_abyss": {
+        "Repository": "https://github.com/CodyIBrealey/mp_abyss",
+        "Versions": [
+            {
+                "Version": "0.0.1",
+                "CommitHash": "54f37e3e1fdb4d7293e601bdd8cdd13e7cfb816e",
+                "DownloadLink": "https://gcdn.thunderstore.io/live/repository/packages/skrubslayer69-mp_abyss-0.0.1.zip",
+                "Checksum": "4a0aa972094ed502bb4beea168fda701d680c9c3ce123eb192b5d68f5ec3d875",
+                "Platform": "thunderstore"
+            }
+        ]
+    },
     "Neko's Onslaught": {
         "Repository": "https://github.com/ASillyNeko/Onslaught",
         "Versions": [
